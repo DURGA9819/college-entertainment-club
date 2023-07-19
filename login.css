@@ -1,0 +1,194 @@
+
+.na{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF6666;
+    color: white;
+    position: fixed;
+    width: 1520px;
+    margin-top: -105px;
+    margin-left: -10px;
+    height: 70px;
+    
+}
+.navi{
+    display: flex;
+    gap: 8px;
+}
+.hom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-right: 10px;
+}
+.hom a{
+    text-decoration: none;
+    color: white;
+    font-size:20px;
+}
+.navi img{
+    height: 100px;
+    width: 100px;
+    margin-top: -12px;
+    margin-left: 10px;
+}
+.hom a img{
+    height: 25px;
+    width: 25px;
+    margin-bottom: -5px;
+    margin-top: -10px;
+}
+.sec{
+    display: flex;
+    margin-top: 10px;
+    gap: 5px;
+}
+.sec input{
+    height: 20px;
+    width: 250px;
+    margin-top: 27px;
+    margin-top: 15px;
+}
+.sec img{
+    height: 20px;
+    width: 20px;
+    margin-top: 30px;
+    margin-top: 17px;
+}
+
+.log1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.im img{
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    margin-left: 150px;
+    border-radius: 50%;
+
+}
+
+.login{
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    height: 450px;
+    border: 2px;
+    border-style: solid;
+    box-shadow: 5px 5px 10px;
+    border-radius: 50px;
+    margin: auto;
+}
+.log{
+    font-size: 25px;
+}
+.log h2{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+.log img{
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+.log input{
+    height: 20px;
+    width: 250px;
+    background-color: rgb(218, 218, 218);
+}
+.login{
+    display: flex;
+    width: 350px;  
+    text-align: center;
+    margin-right: 250px;
+    margin-top: 80px;
+}
+.row input{
+    background-color: rgb(0, 68, 255);
+    color: white;
+    font-size: 20px;
+    height: 32px;
+}
+
+.log a{
+    color: black;
+    font-size: 25px;
+    justify-content: center;
+}
+.log{
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.line1{
+    margin-top: 70px;
+    height: 7px;
+    margin-left: -7px;
+    background-color: #FCAEAE;
+}
+.con img{
+    height: 30px;
+    width: 30px;
+}
+.fo h3{
+    margin: auto;
+}
+.con{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.fo{
+    display: flex;
+    gap: 10px;
+}
+.ii img{
+    height: 30px;
+    width: 35px;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    margin: auto;
+}
+.abo{
+    width: 500px;
+
+}
+footer{
+    background-color: #FFEADD;
+    margin-left: -8px;
+}
+.cc img{
+    height: 20px;
+    width: 35px;
+    margin-top: 20px;
+}
+.cc{
+    display: flex;
+    justify-content: center
+}
